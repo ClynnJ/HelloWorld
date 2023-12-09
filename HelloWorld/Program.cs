@@ -15,5 +15,20 @@ namespace HelloWorld
 
             Console.ReadKey();
         }
+
+        static void FirstMethod()
+        {
+
+        }
+
+        static void SecondMethod()
+        {
+
+        }
+
+        static void ThirdMethod()
+        {
+
+        }
     }
 }
